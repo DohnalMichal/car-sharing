@@ -128,9 +128,7 @@ a {
 }
 
 .header__nav {
-  margin: 0;
   display: flex;
-  list-style-type: none;
 }
 
 .header__item {
