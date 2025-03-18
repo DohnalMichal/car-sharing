@@ -131,7 +131,7 @@ a {
   display: flex;
 }
 
-.header__item {
+.header__item a {
   padding: 33px 40px;
   display: flex;
   align-items: center;
